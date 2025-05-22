@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi 👋🏻, I'm Piyush ✨<br><br>🧠 Computer science student at CY Tech<br> 😋 A passionate programmer and cybersecurity enthusiast<br> 👁️ I love to explore loopholes in system
+## Hi 👋🏻, I'm Piyush ✨<br><br>🧠 Computer science student at SISTEC-R Tech<br> 😋 A passionate programmer and cybersecurity enthusiast<br> 👁️ I love to explore loopholes in system
 
 
 # 💻 Tech Stack:
